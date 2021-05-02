@@ -1,2 +1,1 @@
-# Python-SimplePrograms1
-A collection of simple python programs for beginners
+A collection of simple python programs for beginners - From Stanford's "Code In Place" curriculum
